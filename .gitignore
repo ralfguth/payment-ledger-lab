@@ -1,0 +1,14 @@
+# Binaries
+/bin/
+*.exe
+*.test
+*.out
+
+# Coverage and profiles
+coverage.*
+*.pprof
+
+# Local environment
+.env
+.idea/
+.vscode/
